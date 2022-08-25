@@ -11,6 +11,7 @@
 /* screens */
 @import "./screens/login.css";
 @import "../css/screens/friends.css";
+@import "../css/screens/find.css";
 
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 

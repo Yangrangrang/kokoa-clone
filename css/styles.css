@@ -9,6 +9,7 @@
 @import "../css/components/user-component.css";
 @import "../css/components/badge.css";
 @import "../css/components/icon-row.css";
+@import "../css/components/no-mobile.css";
 
 /* screens */
 @import "./screens/login.css";
@@ -16,6 +17,7 @@
 @import "../css/screens/find.css";
 @import "../css/screens/more.css";
 @import "../css/screens/setting.css";
+@import "../css/screens/chat.css";
 
 
 body {
